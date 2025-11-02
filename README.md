@@ -31,7 +31,7 @@
 ### 🏆 Achievements & Goals
 - Completed **NPTEL Machine Learning Course**
 - Learning **Generative AI, NLP, and Cybersecurity**
-- Aiming for a **12+ LPA Software Developer role**
+
 
 ---
 
