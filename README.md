@@ -39,6 +39,14 @@
 📧 [jahnavisangu4@gmail.com](mailto:jahnavisangu4@gmail.com)  
 🔗 [LinkedIn](your-linkedin-profile-url)  
 
+---
+
+### ⚡ GitHub Activity
+![Jahnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=SanguJahnavi1234&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanguJahnavi1234&layout=compact&theme=radical)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=SanguJahnavi1234&theme=darkhub)
+![Profile Views](https://komarev.com/ghpvc/?username=SanguJahnavi1234&color=blue)
 
 <!--
 **SanguJahnavi1234/sangujahnavi1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
